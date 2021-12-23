@@ -13,7 +13,7 @@ $ yarn
 ```
 $ yarn start --port 8016 --host 0.0.0.0
 
-$ yarn run serve -- --build --port 8016 --host 0.0.0.0
+$ yarn run serve --build --port 8016 --host 0.0.0.0
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
